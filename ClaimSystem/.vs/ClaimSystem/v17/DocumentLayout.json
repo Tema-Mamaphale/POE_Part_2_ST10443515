@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\claimsystem (2)\\claimsystem\\views\\claims\\statuslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|solutionrelative:views\\claims\\statuslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\claimsystem (2)\\claimsystem\\views\\claims\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|solutionrelative:views\\claims\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\claimsystem (2)\\claimsystem\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\claimsystem (2)\\claimsystem\\views\\claims\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C969B016-9EA1-4C6C-8DEF-3F20CA2B5D1A}|ClaimSystem.csproj|solutionrelative:views\\claims\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusList.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Views\\Claims\\StatusList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\StatusList.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Views\\Claims\\StatusList.cshtml",
+              "RelativeToolTip": "Views\\Claims\\StatusList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T04:07:13.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Views\\Claims\\Status.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Status.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Views\\Claims\\Status.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Status.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T04:07:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T12:49:21.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Views\\Claims\\Submit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Submit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\ClaimSystem (2)\\ClaimSystem\\Views\\Claims\\Submit.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Submit.cshtml",
+              "ViewState": "AgIAAGoAAADAMzMzM5MwwPAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T12:48:56.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
