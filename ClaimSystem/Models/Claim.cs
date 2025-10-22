@@ -18,10 +18,5 @@
 
         public string? AttachmentStoredName { get; set; }
 
-        public decimal CalculateTotalAmount()
-        {
-            return HoursWorked * HourlyRate;    
-        }
-
     }
 }
