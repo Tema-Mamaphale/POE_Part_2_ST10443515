@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CMCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59CE9E27-DB07-4B4A-8339-B9097F007D2F}|CMCS\\CMCS.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\desktop\\cmcs\\cmcs\\claimtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CE9E27-DB07-4B4A-8339-B9097F007D2F}|CMCS\\CMCS.csproj|solutionrelative:cmcs\\claimtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1C7ED-98FD-CF47-F90E-B2DB69D866A1}|..\\..\\Documents\\GitHub\\POE_Part_2_ST10443515\\ClaimSystem\\ClaimSystem.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\github\\poe_part_2_st10443515\\claimsystem\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaimTests.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CMCS\\CMCS\\ClaimTests.cs",
+              "RelativeDocumentMoniker": "CMCS\\ClaimTests.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Desktop\\CMCS\\CMCS\\ClaimTests.cs",
+              "RelativeToolTip": "CMCS\\ClaimTests.cs",
+              "ViewState": "AgIAACYAAAAgzczMzMw9wDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:39:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\POE_Part_2_ST10443515\\ClaimSystem\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\POE_Part_2_ST10443515\\ClaimSystem\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\GitHub\\POE_Part_2_ST10443515\\ClaimSystem\\Models\\Claim.cs",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\POE_Part_2_ST10443515\\ClaimSystem\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:13:30.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
